@@ -4,10 +4,10 @@ import time;
 from selenium import webdriver;
 
 #time to refresh page (seconds)
-Timer = 35
+Timer = 10
 
 #youtube link
-link = 'https://youtu.be/9v8VD11-Zpw'
+link = 'https://m.youtube.com/watch?v=fJN2MqzkX2c'
 
 #number of views
 views = 9999
